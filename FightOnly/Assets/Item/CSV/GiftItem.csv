@@ -1,0 +1,13 @@
+﻿NO,Name,TextCard,Power,type
+1,Atk,เพิ่ม Atk +2,2,gift
+2,Def,เพิ่ม Def +2,2,gift
+3,MAG,เพิ่ม Mag +2,2,gift
+4,MAGDEF,เพิ่ม MagDef +2,2,gift
+5,HP,เพิ่ม MaxHP +5,5,gift
+6,COST,เพิ่ม COST +1,1,gift
+7,Atk,เพิ่ม Atk +5,5,highgift
+8,Def,เพิ่ม Def +5,5,highgift
+9,MAG,เพิ่ม Mag +5,5,highgift
+10,MAGDEF,เพิ่ม MagDef +5,5,highgift
+11,HP,เพิ่ม MaxHP +12,12,highgift
+12,COST,เพิ่ม COST +3,3,highgift
